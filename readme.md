@@ -9,8 +9,7 @@ This project aims to demonstrate whether an autoencoder can be used to encrypt i
 1. [Installation](#installation)
 2. [tensorflow](#tensorflow)
 3. [Usage](#usage)
-4. [Results](#results)
-5. [Conclusion](#conclusion)
+
 
 
 ## Installation
