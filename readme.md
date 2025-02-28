@@ -17,7 +17,7 @@ This project aims to demonstrate whether an autoencoder can be used to encrypt i
 To install the required dependencies, run the following command:
 
 ```bash
-git clone #mettre le lien
+git clone https://github.com/Enzo-hmdy/autoencoder_encryption_UQAC
 cd autoencoder-for-images-encryption
 pip install -r requirements.txt
 ```
