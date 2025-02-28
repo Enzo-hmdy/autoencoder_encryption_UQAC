@@ -1,0 +1,7 @@
+pip install matplotlib
+pip install numpy
+pip install opencv-python
+pip install pandas
+pip install plotly
+pip install seaborn
+pip install sklearn
