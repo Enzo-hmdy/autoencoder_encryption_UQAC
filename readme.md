@@ -53,3 +53,5 @@ https://melika-sce.medium.com/step-by-step-guide-to-setup-tensorflow-with-gpu-su
 
 To run the code, you can simply open the Jupyter notebook and run each cell. The notebook is divided into sections, each of which corresponds to a different part of the project. All the code is documented, so you should be able to follow along easily. I do recommand to run the code on a GPU if you have one, it's gonna save you some time.
 
+At some place you have to change the path of the dataset that is hardcoded but it's indicated where you have to change it.
+
