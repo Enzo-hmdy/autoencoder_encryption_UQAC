@@ -37,7 +37,7 @@ you might experience issues with tensorflow if you haven't set or install it on 
 1- You run linux and you have a GPU that supports CUDA and cuDNN, you can install the GPU version of tensorflow by running the following command without any problem : 
 
 ```bash
-pip install tensorflow-gpuZ
+pip install tensorflow-gpu
 ```
 
 2- You are using windows and you have a GPU that supports CUDA and cuDNN, you can finds some information on how to proceds on these differents links : 
